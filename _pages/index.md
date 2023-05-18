@@ -27,6 +27,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 </ul>
 
 <style>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
   .wrapper {
     max-width: 46em;
   }
